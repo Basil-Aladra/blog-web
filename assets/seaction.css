@@ -1,0 +1,41 @@
+.art-card{
+    display: grid;
+    grid-template-columns: auto auto ;
+    justify-content: center;
+    padding: 10px;
+    gap: 20px;
+}
+
+.card-1{
+    border:2px solid rgb(187, 186, 186);
+}
+
+.card{
+    border:4px solid rgb(187, 186, 186);
+}
+
+.bolg-world{
+    color: blue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.bolg-design{
+    color: #2AA848;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.date{
+    color: rgb(75, 72, 72);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+}
+
+section{
+    padding: 30px;
+}
+
+a{
+    color: #0e80ff;
+}

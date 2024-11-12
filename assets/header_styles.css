@@ -1,0 +1,29 @@
+.navbar-class{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.blg-title{
+    text-decoration: underline;
+    color: rgb(75, 72, 72);
+}
+
+.subscribe-link{
+    color: rgb(75, 72, 72);
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+h1{
+    font-size: 22px;
+}
+
+.search-icon{
+    width: 20px;
+    height: 20px;
+}

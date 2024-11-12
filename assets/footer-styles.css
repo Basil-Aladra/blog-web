@@ -1,0 +1,15 @@
+footer{
+    border-top: #0e80ff;
+    text-align: center;
+    background: #F9F9F9;
+    padding: 30px;
+    border-top: 1px solid rgb(230, 229, 229);
+}
+
+.bootstrap-link ,.see-link{
+    color: #0e80ff;
+}
+
+p{
+    color: rgb(75, 72, 72);
+}
