@@ -1,3 +1,8 @@
+@import url(./footer-styles.css);
+@import url(./blog.css);
+@import url(./header_styles.css);
+@import url(./seaction.css);
+
 body{
     margin: 100px;
     justify-content: center;
